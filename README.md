@@ -1,1 +1,6 @@
-# 2022-Mathematical-Modeling-National-Competition
+# 2022-Mathematical-Modeling-National-Competition 二等奖作品
+对古代玻璃制品成分的分析和类型鉴别在实际历史研究中具有广泛的使用场景和重要意义。
+本文主要通过研究一批古代玻璃文物的类型、颜色、成分组成等数据，分析找出相应的分类
+等统计规律，主要建立了成分综合分析评价模型，并使用假设检验、关联分析、聚类分析等
+研究方法对玻璃制品数据进行分析，通过敏感度、轮廓系数等指标对分析结果进行评价，利
+用 pycharm、matlab、SPSS 等软件进行求解。
